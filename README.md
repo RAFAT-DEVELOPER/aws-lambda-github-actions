@@ -22,13 +22,13 @@ AWS Lambda is a serverless compute service that lets you run code without provis
    
 ![aws-lambda](https://github.com/RAFAT-DEVELOPER/aws-lambda-github-actions/assets/8677005/9811815a-2f56-4a04-ba3d-7d1a9c494186)
    
-3. Create a new function by clicking on the "Create function" button.
+2. Create a new function by clicking on the "Create function" button.
    
 ![aws-lambda-create-function](https://github.com/RAFAT-DEVELOPER/aws-lambda-github-actions/assets/8677005/0113903a-7dad-4724-8410-eaf70c0335c7)
 
-4. Give the function a name, such as "my-function", and use the defaults for other settings.
+3. Give the function a name, such as "my-function", and use the defaults for other settings.
    
-5. After creating the function, you'll be redirected to the console page for your Lambda function.
+4. After creating the function, you'll be redirected to the console page for your Lambda function.
    
 ![aws-lambda-code](https://github.com/RAFAT-DEVELOPER/aws-lambda-github-actions/assets/8677005/bd1f13a7-3a7f-44c0-81ad-ff3ed41952b5)
 
