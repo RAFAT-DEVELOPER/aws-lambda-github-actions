@@ -83,10 +83,10 @@ exports.handler = async (event) => {
 ![Untitled design (1)](https://github.com/RAFAT-DEVELOPER/aws-lambda-github-actions/assets/8677005/7755c570-956d-4cbc-a386-f79281f1d12d)
 
 2. Click on "Set up a workflow yourself".
-3. 
+   
 ![start-githubaction-workflow](https://github.com/RAFAT-DEVELOPER/aws-lambda-github-actions/assets/8677005/b70b6bc4-65e5-425f-a7ac-c78b2b4d9cad)
 
-5. Replace the template code with the following YAML snippet:
+3. Replace the template code with the following YAML snippet:
 
 ```yaml
 name: deploy to lambda
